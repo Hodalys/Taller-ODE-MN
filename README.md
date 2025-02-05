@@ -1,1 +1,1 @@
-# Taller-ODE-MN
+# Código base para la clase de Métodos Numéricos
